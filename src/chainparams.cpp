@@ -127,7 +127,9 @@ public:
 
         // Note that of those with the service bits flag, most only support a subset of possible options
         vSeeds.emplace_back("seed-switzer.zapto.org");
-        //vSeeds.emplace_back("dnsseed.thrasher.io");
+          vSeeds.emplace_back("seed-switzer.zapto.org:11976");
+        vSeeds.emplace_back("switzer.zapto.org");
+         vSeeds.emplace_back("switzer.zapto.org:11976");
         //vSeeds.emplace_back("dnsseed.kidscointools.com");
         //vSeeds.emplace_back("dnsseed.kidscoinpool.org");
         //vSeeds.emplace_back("dnsseed.koin-project.com");
@@ -219,7 +221,10 @@ public:
         vSeeds.clear();
         // nodes with support for servicebits filtering should be at the top
         //vSeeds.emplace_back("testnet-seed.kidscointools.com");
-        //vSeeds.emplace_back("seed-b.kidscoin.loshan.co.uk");
+         vSeeds.emplace_back("seed-switzer.zapto.org");
+          vSeeds.emplace_back("switzer.zapto.org");
+         vSeeds.emplace_back("seed-switzer.zapto.org:11976");
+          vSeeds.emplace_back("switzer.zapto.org:11976");
         //vSeeds.emplace_back("dnsseed-testnet.thrasher.io");
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,111);
