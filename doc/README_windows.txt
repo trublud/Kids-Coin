@@ -12,7 +12,7 @@ with each other, with the help of a P2P network to check for double-spending.
 Setup
 -----
 Unpack the files into a directory and run kidscoin-qt.exe.
-
+https://dl.bintray.com/boostorg/release/1.64.0/binaries/boost_1_64_0-msvc-14.1-64.exe
 KidsCoin Core is the original KidsCoin client and it builds the backbone of the network.
 However, it downloads and stores the entire history of KidsCoin transactions;
 depending on the speed of your computer and network connection, the synchronization
