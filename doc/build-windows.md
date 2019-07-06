@@ -51,6 +51,7 @@ recommended but it is possible to compile the 32-bit version.
 
 Cross-compilation for Ubuntu and Windows Subsystem for Linux
 ------------------------------------------------------------
+https://dl.bintray.com/boostorg/release/1.64.0/binaries/boost_1_64_0-msvc-14.1-64.exe
 
 The steps below can be performed on Ubuntu (including in a VM) or WSL. The depends system
 will also work on other Linux distributions, however the commands for
