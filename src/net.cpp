@@ -1604,9 +1604,7 @@ void CConnman::ThreadDNSAddressSeed()
     int found = 0;
 
     LogPrintf("Loading addresses from DNS seeds (could take a while)\n");
- AddOneShot("seed-switzer.zapto.org);
-             AddOneShot("switzer.zapto.org);
-             AddOneShot("switzer.zapto.org:12010);
+
 
         if (interruptNet) {
             return;
