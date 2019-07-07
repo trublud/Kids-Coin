@@ -1605,7 +1605,7 @@ void CConnman::ThreadDNSAddressSeed()
 
     LogPrintf("Loading addresses from DNS seeds (could take a while)\n");
 
-
+    for (const std::string &seed : vSeeds) {
         if (interruptNet) {
             return;
         }
