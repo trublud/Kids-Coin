@@ -1330,7 +1330,7 @@ bool AppInitMain()
     }
 
     // Check for host lookup allowed before parsing any network related parameters
-    fNameLookup = true
+    fNameLookup = true;
   
     //switzmod    fNameLookup =   gArgs.GetBoolArg("-dns", DEFAULT_NAME_LOOKUP);
 
