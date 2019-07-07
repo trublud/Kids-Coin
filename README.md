@@ -7,7 +7,13 @@ KidsCoin Core changes from LiteCoin
 What is KidsCoin?
 ----------------
 
-KidsCoin is an experimental digital currency that enables instant payments to
+KidsCoin will be used to pay for Kid Safe products and services. 
+
+Roblox/minecraft and such games can offer echanges with KidsCoin.
+
+If its accepted by KidsCoin then its safe for kids!
+
+It is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. KidsCoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. KidsCoin Core is the name of open source
