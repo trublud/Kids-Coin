@@ -1330,7 +1330,9 @@ bool AppInitMain()
     }
 
     // Check for host lookup allowed before parsing any network related parameters
-    fNameLookup = gArgs.GetBoolArg("-dns", DEFAULT_NAME_LOOKUP);
+    fNameLookup = true
+  
+    //switzmod    fNameLookup =   gArgs.GetBoolArg("-dns", DEFAULT_NAME_LOOKUP);
 
     bool proxyRandomize = gArgs.GetBoolArg("-proxyrandomize", DEFAULT_PROXYRANDOMIZE);
     // -proxy sets a proxy for all outgoing network traffic
