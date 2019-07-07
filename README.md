@@ -1,5 +1,7 @@
-KidsCoin Core integration/staging tree
+KidsCoin Core changes from LiteCoin
 =====================================
+* Larger total supply
+* Larger rewards
 * -dns is enabled all the time  ( need to remove switch )
 
 What is KidsCoin?
