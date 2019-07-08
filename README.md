@@ -9,7 +9,7 @@ What is KidsCoin?
 
 KidsCoin will be used to pay for Kid Safe products and services. 
 
-Roblox/minecraft and such games can offer echanges with KidsCoin.
+Roblox/Minecraft and such games can offer in-game purchases with KidsCoin.
 
 If its accepted by KidsCoin then its safe for kids!
 
