@@ -27,8 +27,10 @@ License
 KidsCoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
-Development Process
--------------------
+Other Info
+----------
+
+
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. 
